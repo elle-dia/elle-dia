@@ -10,7 +10,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elle-diaelle-diamaster/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elle-diaelle-diamaster/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elle-diaelle-diamaster/img/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elle-dia/elle-dia/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elle-dia/elle-dia/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elle-dia/elle-dia/master/img/snake.svg">
 </picture>
